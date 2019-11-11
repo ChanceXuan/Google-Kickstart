@@ -1,2 +1,4 @@
-# Google-Kickstart
-Personal coding practice based on Google Kickstart
+# Google Kickstart
+
+G1：做到最后发现理解错题意了，用set写成了所有人一共读了几页（不计重复），当练手了。
+G2：先尝试了一个暴力解法，把题给的Sample整完了，小数据集没问题，之后来思考一下大数据集
